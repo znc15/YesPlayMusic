@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://yes-play-music-ten-ashen.vercel.app/:match*"
+      "destination": "https://yes-play-music-88j0azv0c-1503255237-qqcom.vercel.app/:match*"
     }
   ]
 }
